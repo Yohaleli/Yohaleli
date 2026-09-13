@@ -1,7 +1,7 @@
-# <p align="center">👋 Hi, I'm Yohannes (John)</p>
+# <p align="center">👋 Hi, I'm Yohannes Teshale (John)</p>
 
 <p align="center">
-  <b>Software Developer & Cybersecurity Researcher</b><br>
+  <b>I am a vibe coder & Cybersecurity Researcher</b><br>
   <i>Crafting distraction-free software & exploring network security systems.</i>
 </p>
 
@@ -30,7 +30,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🎯 <a href="https://github.com/Yohaleli/u-focus-c">UFocus (Focus Desk)</a></h4>
+      <h4>🎯 <a href="ufocus.web.app">UFocus (Focus Desk)</a></h4>
       <p>A distraction-free, high-performance productivity environment designed to eliminate cognitive friction.</p>
       <ul>
         <li><b>Dynamic Focus Engine:</b> Pomodoro cycles with interactive time overriding & decay rings.</li>
